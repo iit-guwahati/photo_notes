@@ -24,6 +24,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.kad.android.hackathon13_1.MainActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

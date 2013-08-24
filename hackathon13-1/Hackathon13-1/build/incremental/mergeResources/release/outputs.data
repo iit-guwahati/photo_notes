@@ -2,19 +2,19 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1377318954000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-mdpi/ic_launcher.png
-1377354951000 1350 5fcfc4d5feb796669bb37685903b273932405850 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/values/values.xml
+1377359638000 1295 398e5fb8102b3768b3ca02b89568ad4abd8e7b83 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/values/values.xml
 1377318954000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-xxhdpi/ic_launcher.png
-1377356878000 1905 b9d987086657df537d1f5c138bef3f4f757b3354 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/new_note.xml
+1377358887000 1795 da6108d7bf07b28cb4004dd5d9b1c8336680fba3 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/new_note.xml
 1377342356000 42631 6ea3d2b8b964e4b46d37760c6dcb1ff4718be5dd /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-hdpi/camera.jpg
 1377318954000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-xhdpi/ic_launcher.png
-1377357783000 820 f4c95fe0e2476e0695d68e3ed8957c8430cc03c6 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/activity_main.xml
+1377360324000 820 f4c95fe0e2476e0695d68e3ed8957c8430cc03c6 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/activity_main.xml
 1377354314000 401 070e178f4064c667736443034ec32b0b33f4f5b6 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/drawable/background.xml
-1377357819000 1605 5a6554ec6c31383ad5884cd32b7356d9cb7f95b8 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/note.xml
+1377360057000 1767 2d4e8af6ed5d099e68405ada215941a81e9d95b4 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/note.xml
 1377318954000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-hdpi/ic_launcher.png
 1377318954000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/values-v11/values.xml
 1377318954000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/values-sw720dp-land/values.xml
 1377318954000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/values-v14/values.xml
 1377318954000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/menu/main.xml
-1377354951000 647 ca11bf850a1f231f953070c6ee14f8680102b85f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/single_note.xml
+1377362119000 1509 11d0fba4eabc3e60ee9b1721b7d0761895ac287b /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/layout/single_note.xml
 1377354951000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/menu/single_note.xml
 1377338800000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/res/all/release/menu/new_note.xml

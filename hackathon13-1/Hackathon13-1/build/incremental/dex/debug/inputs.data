@@ -1,27 +1,27 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1377357781000 4137 5ee6092ed18cdccd91f16b2b14963c491928c81a /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity.class
-1377351291000 1400 e960d17e81bb5bce8859c88feb2aabc1ab788087 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Note.class
+1377361522000 4465 a185f361840fec4beaf7e3a79936c026e132e4a5 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity.class
+1377359435000 1280 db52562718e0729c02d2060fde707d58aa90ed7d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Note.class
 1377318949000 367 77827ae133d7c7c05cba21d5e3687a9e6adac303 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/BuildConfig.class
-1377353105000 4127 6980ecdd1b5fdb19a1fbbb3e32a217ecb8b66d3c /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Database.class
+1377359331000 4262 9e1de981380468cca07689d3f7276f6e7bac88a0 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Database.class
 1377354312000 494 49d7fa9d982c7e26965fc6287260a45a452d6f57 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$dimen.class
 1377324114000 516 9b9da175ae5d58345141146c105f265d9c645d36 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Manifest$permission.class
-1377357781000 3792 1c32772df1cf48cb9e055ed86ca7c4b41ee4ebf4 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteListAdapter.class
+1377362117000 2443 3c2183e9cc72a0563ea4c525833218594a70de67 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteListAdapter.class
 1377318949000 373 4b1636d26d25c718f5541b49e184ab8c34d64afd /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$attr.class
-1377354949000 833 a99cd7d03fc3638759afe6ac2284c7dd25e21a8e /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/SingleNote.class
-1377354949000 787 f787e6e74bba095350dc20ffaab53caa55ae1652 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$string.class
+1377361390000 1478 5c5bc6530c0ccaa2ae15b74472502e30e35e5ef8 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/SingleNote.class
+1377359637000 752 8580701d8a56a7b0c42e189c1f2416529bfa17bc /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$string.class
 1377357781000 6429 4c790aefcdac1b8b31fc9856d6a7eea04f72517d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NewNote.class
 1377357781000 602 7573abcbada4b1fd0d8f6c96eb759b54d97c5511 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$id.class
 1377354949000 488 fdb22e66041c73da41e2ee167036d9ac189de0b4 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$menu.class
 1377354949000 531 f7732323124e4c3b47608f688fa064ec695dff03 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$layout.class
 1377346264000 1323 0a3fe0bdd013beb0374b2e4f635e9eed135471e9 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteView.class
-1377354949000 846 9f8ee526ee0491b50c95c072f724cbf72668951f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R.class
-1377354949000 464 3be6f9bb70ea29550fc683725765580bf60acd63 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$style.class
+1377359637000 846 5c1057a7c3957c4c908a905f4726b5acac16aa5b /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R.class
+1377359637000 464 155b01e23997c1e40841110aec4d7b533d520827 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$style.class
 1377351427000 1034 1430501dd35454d30bca8de7cf9d39cbbbf42b70 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NewNote$1$1.class
 1377318916000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/libs/android-support-v4.jar
 1377324114000 412 9bbf7dbcea08336627be5f12cf35aa46fd05f8c0 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Manifest.class
 1377354312000 524 73a11b1d7447c9dd9df6df7520b03600f92303f9 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$color.class
-1377357659000 2085 8a69f6a3b0d310f339e3e6ff80e0cb4f8edbc479 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity$1.class
+1377361522000 2085 9240bdd8f2ce80328bb4fc2ada15e8aede09cf6c /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity$1.class
 1377354312000 504 9cea08a9f9215c939759952e4725a7a0a1a390fd /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$drawable.class
 1377351427000 1553 c3960c90002c7ec86f1eb9351d3c8f581bc72a82 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NewNote$1.class

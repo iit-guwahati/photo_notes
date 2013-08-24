@@ -23,12 +23,11 @@ public class Note {
         this.title = title;
         this.content = content;
         this.image = image;
-        MainActivity.log("Image", image);
         this.modified = modified;
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         try {
             Date d = sdf.parse(created);
-            sdf = new SimpleDateFormat("HH:mm");
+            sdf = new SimpleDateFormat("MMM dd, HH:mm");
             created = sdf.format(d);
         } catch (ParseException e) {
             e.printStackTrace();

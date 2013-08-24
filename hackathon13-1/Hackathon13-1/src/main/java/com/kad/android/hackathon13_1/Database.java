@@ -19,7 +19,7 @@ import java.util.Locale;
  */
 public class Database extends SQLiteOpenHelper {
     static final String TAG = "Notes | Database";
-    static final int VERSION = 7;
+    static final int VERSION = 9;
     static final String NAME = "PhotoNotes";
     static final String TABLE = "Notes";
     static final String FIELD_ID = "id";
@@ -49,11 +49,14 @@ public class Database extends SQLiteOpenHelper {
 //                "("+FIELD_TITLE+", "+FIELD_TEXT+", "+FIELD_IMAGE+
 //                ", "+FIELD_MODIFIED+") VALUES('"+title);
         ContentValues values = new ContentValues();
+        if( title.length() < 1 )
+            title = "#PhotoNoteSnap";
         values.put(FIELD_TITLE, title);
         values.put(FIELD_TEXT, text);
         values.put(FIELD_IMAGE, url);
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:mm", Locale.getDefault());
-        values.put(FIELD_MODIFIED, df.format(new Date(0)));
+        values.put(FIELD_MODIFIED, df.format(new Date()));
+        values.put(FIELD_CREATED, df.format(new Date()));
         long id = db.insert(TABLE, null, values);
         MainActivity.log(TAG, "Insert id = "+ id);
     }

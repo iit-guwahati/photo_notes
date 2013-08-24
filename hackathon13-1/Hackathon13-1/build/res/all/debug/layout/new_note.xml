@@ -11,9 +11,6 @@
         android:id="@+id/title"
         android:layout_gravity="left|center_vertical"
         android:inputType="textAutoComplete"
-        android:autoText="false"
-        android:focusableInTouchMode="true"
-        android:focusable="true"
         android:hint="@string/text_hint_new_note"
         android:textAlignment="center"
         android:gravity="center_horizontal"/>

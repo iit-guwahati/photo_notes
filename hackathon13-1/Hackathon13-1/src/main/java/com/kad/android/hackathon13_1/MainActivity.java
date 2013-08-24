@@ -3,24 +3,16 @@ package com.kad.android.hackathon13_1;
 import android.app.Activity;
 import android.content.Intent;
 import android.database.Cursor;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.os.Environment;
-import android.provider.MediaStore;
 import android.util.Log;
-import android.view.Menu;
 import android.view.View;
 import android.widget.*;
 
-import java.io.File;
-import java.text.SimpleDateFormat;
+import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.Iterator;
-import java.util.List;
 
-public class MainActivity extends Activity implements View.OnClickListener, AdapterView.OnItemClickListener{
+public class MainActivity extends Activity implements View.OnClickListener, ListView.OnItemClickListener {
     private static final boolean DEBUG = true;
     private static final String TAG = "Notes | MainActivity";
     ArrayList<Note> notes = new ArrayList<Note>();
@@ -35,17 +27,7 @@ public class MainActivity extends Activity implements View.OnClickListener, Adap
     @Override
     protected void onStart() {
         super.onStart();
-        lv = (ListView) findViewById(R.id.notes);
-        lv.setOnItemClickListener(this);
         notes.clear();
-        loadNotesFromDB();
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
     }
 
     public void loadNotesFromDB() {
@@ -85,6 +67,7 @@ public class MainActivity extends Activity implements View.OnClickListener, Adap
     private void doUIupdate() {
         NoteListAdapter adapter = new NoteListAdapter(this.getApplicationContext(), R.layout.note, notes);
         lv.setAdapter(adapter);
+        lv.setOnItemClickListener(this);
     }
 
     @Override
@@ -94,11 +77,14 @@ public class MainActivity extends Activity implements View.OnClickListener, Adap
                 startActivity(new Intent(this, NewNote.class));
                 break;
         }
+        Toast.makeText(getApplicationContext(), "View: "+view.getId(), Toast.LENGTH_SHORT).show();
     }
 
     @Override
     protected void onResume() {
         super.onResume();
+        lv = (ListView) findViewById(R.id.notes);
+        loadNotesFromDB();
     }
 
     public static void log(String tag, String value){
@@ -108,7 +94,15 @@ public class MainActivity extends Activity implements View.OnClickListener, Adap
 
     @Override
     public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-        log(TAG, "LOADED view: "+i);
+        Intent intent = new Intent(getApplicationContext(), SingleNote.class);
+        Note n = notes.get(i);
+        intent.putExtra("id", n.id);
+        intent.putExtra("title", n.title);
+        intent.putExtra("content", n.content);
+        intent.putExtra("created", n.created);
+        intent.putExtra("modified", n.modified);
+        intent.putExtra("image", n.image);
+        startActivity(intent);
         Toast.makeText(getApplicationContext(), "View: "+i, Toast.LENGTH_SHORT).show();
     }
 
