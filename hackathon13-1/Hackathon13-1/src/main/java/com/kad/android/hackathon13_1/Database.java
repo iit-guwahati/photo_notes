@@ -8,6 +8,7 @@ import android.database.DatabaseErrorHandler;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Build;
+import android.widget.Toast;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -17,6 +18,7 @@ import java.util.Locale;
  * Created by kAd on 24/08/13.
  */
 public class Database extends SQLiteOpenHelper {
+    static final String TAG = "Notes | Database";
     static final int VERSION = 1;
     static final String NAME = "PhotoNotes";
     static final String TABLE = "Notes";
@@ -52,7 +54,8 @@ public class Database extends SQLiteOpenHelper {
         values.put(FIELD_IMAGE, url);
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:mm", Locale.getDefault());
         values.put(FIELD_MODIFIED, df.format(new Date(0)));
-        db.insert(TABLE, null, values);
+        long id = db.insert(TABLE, null, values);
+        MainActivity.log(TAG, "Insert id = "+ id);
     }
 
     public Cursor select(){

@@ -18,6 +18,7 @@ import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.List;
 
 public class MainActivity extends Activity implements View.OnClickListener {
@@ -29,7 +30,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     private static final int CAPTURE_VIDEO_ACTIVITY_REQUEST_CODE = 200;
     TextView text;
     List<Note> notes = new ArrayList<Note>();
-    private Uri fileUri;
+    private Uri fileUri = Uri.parse("");
 
     private static Uri getOutputMediaFileUri(int type) {
         File f = getOutputMediaFile(type);
@@ -114,8 +115,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
                                 c.getString(c.getColumnIndex(Database.FIELD_MODIFIED)),
                                 c.getString(c.getColumnIndex(Database.FIELD_CREATED))
                         ));
+                        c.moveToNext();
                     }
-                    c.moveToNext();
                 }
                 c.close();
                 db.close();
@@ -126,7 +127,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
     }
 
     private void doUIupdate() {
-
+        Iterator<Note> it = notes.listIterator();
+        while (it.hasNext()){
+            Note n = it.next();
+            text.setText(text.getText().toString() + n.title);
+        }
     }
 
     @Override
@@ -135,8 +140,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
             if (resultCode == RESULT_OK) {
                 // Image captured and saved to fileUri specified in the Intent
                 //TODO insert note here
-                Toast.makeText(this, "Image saved to:\n" +
-                        data.getData(), Toast.LENGTH_LONG).show();
+//                Toast.makeText(this, "Image saved to:\n" +
+//                        data.getData(), Toast.LENGTH_LONG).show();
             } else if (resultCode == RESULT_CANCELED) {
                 // User cancelled the image capture
             } else {
@@ -174,9 +179,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 startActivityForResult(intent, CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE);
                 break;
             case R.id.add:
-                String title = (String) ((TextView)findViewById(R.id.title)).getText();
-                String content = (String) ((TextView)findViewById(R.id.content)).getText();
+                String title = ((TextView)findViewById(R.id.title)).getText().toString();
+                String content = ((TextView)findViewById(R.id.content)).getText().toString();
                 log(TAG, fileUri.getEncodedPath());
+                Toast.makeText(getApplicationContext(), "Adding", Toast.LENGTH_SHORT).show();
                 addNote(title, content, fileUri.getEncodedPath());
         }
     }
@@ -201,6 +207,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 });
             }
         };
+        task.execute();
     }
 
     public static void log(String tag, String value){
