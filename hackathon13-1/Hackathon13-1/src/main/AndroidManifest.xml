@@ -7,8 +7,13 @@
     <uses-sdk
         android:minSdkVersion="7"
         android:targetSdkVersion="16" />
+
     <uses-permission android:name="android.permission.CAMERA" />
-    <uses-feature android:name="android.hardware.camera" android:required="false" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
@@ -25,6 +30,14 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kad.android.hackathon13_1.NewNote"
+            android:label="@string/title_activity_new_note" >
+        </activity>
+        <activity
+            android:name="com.kad.android.hackathon13_1.SingleNote"
+            android:label="@string/title_activity_single_note" >
         </activity>
     </application>
 

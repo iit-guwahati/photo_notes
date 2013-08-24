@@ -11,8 +11,7 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.view.Menu;
 import android.view.View;
-import android.widget.TextView;
-import android.widget.Toast;
+import android.widget.*;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -21,56 +20,11 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 
-public class MainActivity extends Activity implements View.OnClickListener {
+public class MainActivity extends Activity implements View.OnClickListener, AdapterView.OnItemClickListener{
     private static final boolean DEBUG = true;
     private static final String TAG = "Notes | MainActivity";
-    public static final int MEDIA_TYPE_IMAGE = 1;
-    public static final int MEDIA_TYPE_VIDEO = 2;
-    private static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE = 100;
-    private static final int CAPTURE_VIDEO_ACTIVITY_REQUEST_CODE = 200;
-    TextView text;
-    List<Note> notes = new ArrayList<Note>();
-    private Uri fileUri = Uri.parse("");
-
-    private static Uri getOutputMediaFileUri(int type) {
-        File f = getOutputMediaFile(type);
-        if (f != null)
-            return Uri.fromFile(f);
-        else return null;
-    }
-
-    private static File getOutputMediaFile(int type) {
-        // To be safe, you should check that the SDCard is mounted
-        // using Environment.getExternalStorageState() before doing this.
-
-        File mediaStorageDir = new File(Environment.getExternalStoragePublicDirectory(
-                Environment.DIRECTORY_PICTURES), "MyCameraApp");
-        // This location works best if you want the created images to be shared
-        // between applications and persist after your app has been uninstalled.
-
-        // Create the storage directory if it does not exist
-        if (!mediaStorageDir.exists()) {
-            if (!mediaStorageDir.mkdirs()) {
-                Log.d("MyCameraApp", "failed to create directory");
-                return null;
-            }
-        }
-
-        // Create a media file name
-        String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-        File mediaFile;
-        if (type == MEDIA_TYPE_IMAGE) {
-            mediaFile = new File(mediaStorageDir.getPath() + File.separator +
-                    "IMG_" + timeStamp + ".jpg");
-        } else if (type == MEDIA_TYPE_VIDEO) {
-            mediaFile = new File(mediaStorageDir.getPath() + File.separator +
-                    "VID_" + timeStamp + ".mp4");
-        } else {
-            return null;
-        }
-
-        return mediaFile;
-    }
+    ArrayList<Note> notes = new ArrayList<Note>();
+    ListView lv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -81,7 +35,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
     @Override
     protected void onStart() {
         super.onStart();
-        text = (TextView) findViewById(R.id.text);
+        lv = (ListView) findViewById(R.id.notes);
+        lv.setOnItemClickListener(this);
+        notes.clear();
         loadNotesFromDB();
     }
 
@@ -112,8 +68,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
                                 c.getString(c.getColumnIndex(Database.FIELD_TITLE)),
                                 c.getString(c.getColumnIndex(Database.FIELD_TEXT)),
                                 c.getString(c.getColumnIndex(Database.FIELD_IMAGE)),
-                                c.getString(c.getColumnIndex(Database.FIELD_MODIFIED)),
-                                c.getString(c.getColumnIndex(Database.FIELD_CREATED))
+                                c.getString(c.getColumnIndex(Database.FIELD_CREATED)),
+                                c.getString(c.getColumnIndex(Database.FIELD_MODIFIED))
                         ));
                         c.moveToNext();
                     }
@@ -127,91 +83,33 @@ public class MainActivity extends Activity implements View.OnClickListener {
     }
 
     private void doUIupdate() {
-        Iterator<Note> it = notes.listIterator();
-        while (it.hasNext()){
-            Note n = it.next();
-            text.setText(text.getText().toString() + n.title);
-        }
-    }
-
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (requestCode == CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE) {
-            if (resultCode == RESULT_OK) {
-                // Image captured and saved to fileUri specified in the Intent
-                //TODO insert note here
-//                Toast.makeText(this, "Image saved to:\n" +
-//                        data.getData(), Toast.LENGTH_LONG).show();
-            } else if (resultCode == RESULT_CANCELED) {
-                // User cancelled the image capture
-            } else {
-                // Image capture failed, advise user
-            }
-        }
-
-        if (requestCode == CAPTURE_VIDEO_ACTIVITY_REQUEST_CODE) {
-            if (resultCode == RESULT_OK) {
-                // Video captured and saved to fileUri specified in the Intent
-                Toast.makeText(this, "Video saved to:\n" +
-                        data.getData(), Toast.LENGTH_LONG).show();
-            } else if (resultCode == RESULT_CANCELED) {
-                // User cancelled the video capture
-            } else {
-                // Video capture failed, advise user
-            }
-        }
-    }
-
-    private void AddImage(byte[] byteArray) {
+        NoteListAdapter adapter = new NoteListAdapter(this.getApplicationContext(), R.layout.note, notes);
+        lv.setAdapter(adapter);
     }
 
     @Override
     public void onClick(View view) {
         switch (view.getId()){
-            case R.id.button:
-                Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-
-                fileUri = getOutputMediaFileUri(MEDIA_TYPE_IMAGE); // create a file to save the image
-                if (fileUri != null)
-                    intent.putExtra(MediaStore.EXTRA_OUTPUT, fileUri); // set the image file name
-
-                // start the image capture Intent
-                startActivityForResult(intent, CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE);
-                break;
             case R.id.add:
-                String title = ((TextView)findViewById(R.id.title)).getText().toString();
-                String content = ((TextView)findViewById(R.id.content)).getText().toString();
-                log(TAG, fileUri.getEncodedPath());
-                Toast.makeText(getApplicationContext(), "Adding", Toast.LENGTH_SHORT).show();
-                addNote(title, content, fileUri.getEncodedPath());
+                startActivity(new Intent(this, NewNote.class));
+                break;
         }
     }
 
-    private void addNote(final String title, final String content, final String file){
-        AsyncTask task = new AsyncTask() {
-            @Override
-            protected Object doInBackground(Object[] objects) {
-                Database db = new Database(MainActivity.this.getApplicationContext());
-                db.insert(title, content, file);
-                return null;
-            }
-
-            @Override
-            protected void onPostExecute(Object o) {
-                super.onPostExecute(o);
-                runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Toast.makeText(getApplicationContext(), "Note added", Toast.LENGTH_SHORT).show();
-                    }
-                });
-            }
-        };
-        task.execute();
+    @Override
+    protected void onResume() {
+        super.onResume();
     }
 
     public static void log(String tag, String value){
         if(DEBUG)
             Log.v(tag, value);
     }
+
+    @Override
+    public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+        log(TAG, "LOADED view: "+i);
+        Toast.makeText(getApplicationContext(), "View: "+i, Toast.LENGTH_SHORT).show();
+    }
+
 }

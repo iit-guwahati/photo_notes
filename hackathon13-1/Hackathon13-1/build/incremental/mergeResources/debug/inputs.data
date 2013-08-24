@@ -1,16 +1,24 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+1377336924000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/menu/new_note.xml
 1377318916000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values/styles.xml
+1377354240000 401 070e178f4064c667736443034ec32b0b33f4f5b6 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/drawable/background.xml
+1377354554000 647 ca11bf850a1f231f953070c6ee14f8680102b85f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/layout/single_note.xml
 1377318916000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values-v11/styles.xml
 1377318916000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values-v14/styles.xml
-1377334390000 2015 e4b3fa5f29c142a6caf5e5d0a8a53db866e3d733 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/layout/activity_main.xml
+1377357730000 820 f4c95fe0e2476e0695d68e3ed8957c8430cc03c6 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/layout/activity_main.xml
+1377354308000 236 18bd634950988ca3cef7288b49f3895b06c48976 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values/color.xml
 1377318916000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/drawable-xxhdpi/ic_launcher.png
-1377318916000 223 fd28a5550ee42251e72ee9ce83270651a34e041f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values/strings.xml
+1377354554000 609 0b3e35a35b7bd17d0db097d0e667fd3afc3e8984 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values/strings.xml
+1377356865000 1905 b9d987086657df537d1f5c138bef3f4f757b3354 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/layout/new_note.xml
+1377354554000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/menu/single_note.xml
 1377318916000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values-sw600dp/dimens.xml
+1377340044000 42631 6ea3d2b8b964e4b46d37760c6dcb1ff4718be5dd /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/drawable-hdpi/camera.jpg
+1377357812000 1605 5a6554ec6c31383ad5884cd32b7356d9cb7f95b8 /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/layout/note.xml
 1377318916000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/drawable-hdpi/ic_launcher.png
-1377318916000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/menu/main.xml
 1377318916000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values/dimens.xml
+1377318916000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/menu/main.xml
 1377318916000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/drawable-xhdpi/ic_launcher.png
 1377318916000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/drawable-mdpi/ic_launcher.png
 1377318916000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/x/Documents/workspace/Android Workspace/hackathon13-1/hackathon13-1/Hackathon13-1/src/main/res/values-sw720dp-land/dimens.xml

@@ -19,7 +19,7 @@ import java.util.Locale;
  */
 public class Database extends SQLiteOpenHelper {
     static final String TAG = "Notes | Database";
-    static final int VERSION = 1;
+    static final int VERSION = 7;
     static final String NAME = "PhotoNotes";
     static final String TABLE = "Notes";
     static final String FIELD_ID = "id";

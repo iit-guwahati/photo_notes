@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="focused">#0099cc</color>
+    <color name="highlighted">#33B5E5</color>
+    <color name="normal">#ffffff</color>
+    <color name="selected">#aa66cc</color>
+
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <string name="action_settings">Settings</string>
     <string name="app_name">Hackathon13-1</string>
     <string name="hello_world">Hello world!</string>
+    <string name="text_button_key_add">Add</string>
+    <string name="text_hint_new_note">Snapping for</string>
+    <string name="text_hint_new_note_decsription">A few more words</string>
+    <string name="text_img_alt_add_image">Add image to post</string>
+    <string name="title_activity_new_note">Add Note</string>
+    <string name="title_activity_single_note">MainActivity</string>
 
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

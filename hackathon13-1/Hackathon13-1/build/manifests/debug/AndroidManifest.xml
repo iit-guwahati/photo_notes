@@ -1,8 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.kad.android.hackathon13_1">
 
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="16"/>
+
     <uses-permission android:name="android.permission.CAMERA"/>
+
     <uses-feature android:name="android.hardware.camera" android:required="false"/>
+
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
@@ -13,6 +16,10 @@
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_new_note" android:name="com.kad.android.hackathon13_1.NewNote">
+        </activity>
+        <activity android:label="@string/title_activity_single_note" android:name="com.kad.android.hackathon13_1.SingleNote">
         </activity>
     </application>
 
