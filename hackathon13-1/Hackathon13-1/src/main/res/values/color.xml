@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="highlighted" >#33B5E5</color>
-    <color name="normal">#ffffff</color>
-    <color name="focused">#0099cc</color>
-    <color name="selected">#aa66cc</color>
-</resources>
