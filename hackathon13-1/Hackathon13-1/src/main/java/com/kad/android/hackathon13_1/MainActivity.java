@@ -15,6 +15,7 @@ import java.util.ArrayList;
 public class MainActivity extends Activity implements View.OnClickListener, ListView.OnItemClickListener {
     private static final boolean DEBUG = true;
     private static final String TAG = "Notes | MainActivity";
+    public static final int NOTE_HEIGHT = 256, NOTE_WIDTH = 256;
     ArrayList<Note> notes = new ArrayList<Note>();
     ListView lv;
 
@@ -77,7 +78,6 @@ public class MainActivity extends Activity implements View.OnClickListener, List
                 startActivity(new Intent(this, NewNote.class));
                 break;
         }
-        Toast.makeText(getApplicationContext(), "View: "+view.getId(), Toast.LENGTH_SHORT).show();
     }
 
     @Override
@@ -103,7 +103,6 @@ public class MainActivity extends Activity implements View.OnClickListener, List
         intent.putExtra("modified", n.modified);
         intent.putExtra("image", n.image);
         startActivity(intent);
-        Toast.makeText(getApplicationContext(), "View: "+i, Toast.LENGTH_SHORT).show();
     }
 
 }

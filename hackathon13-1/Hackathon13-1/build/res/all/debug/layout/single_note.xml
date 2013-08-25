@@ -5,13 +5,19 @@
     android:background="#000000"
     tools:context=".SingleNote">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/image"
-        android:contentDescription="@string/text_img_alt_add_image"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:id="@+id/image"
+            android:contentDescription="@string/text_img_alt_add_image"
+            android:scaleType="fitCenter"/>
+    </LinearLayout>
 
     <TextView
         android:layout_width="wrap_content"
@@ -38,4 +44,5 @@
         android:alpha="0.95"
         android:background="#000000"
         android:textColor="#ffffff"/>
+
 </RelativeLayout>

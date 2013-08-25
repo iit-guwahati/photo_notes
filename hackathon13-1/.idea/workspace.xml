@@ -91,22 +91,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/MainActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="49" selection-start="2912" selection-end="2912" vertical-scroll-proportion="0.0" vertical-offset="631" max-vertical-offset="1725">
+            <state line="131" column="47" selection-start="4703" selection-end="4703" vertical-scroll-proportion="0.7348837" vertical-offset="959" max-vertical-offset="1635">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#579#585#0" expanded="true" />
+                <element signature="e#874#880#0" expanded="true" />
+                <element signature="method#loadNotesFromDB#0;class#MainActivity#0" expanded="false" />
+                <element signature="e#4373#4727#0" expanded="true" />
+                <element signature="e#4716#4717#0" expanded="true" />
+                <element signature="e#4774#4948#0" expanded="true" />
+                <element signature="e#4937#4938#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NoteListAdapter.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NoteListAdapter.java">
+      <file leaf-file-name="NoteListAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="0" selection-start="2823" selection-end="2823" vertical-scroll-proportion="1.2448071" vertical-offset="301" max-vertical-offset="1335">
+            <state line="51" column="54" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,88 +118,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single_note.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/menu/single_note.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single_note.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/single_note.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="31" selection-start="238" selection-end="238" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="705">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
+      <file leaf-file-name="note.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/note.xml">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/AndroidManifest.xml">
+      <file leaf-file-name="Database.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="70" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+            <state line="70" column="65" selection-start="2665" selection-end="2665" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SingleNote.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/SingleNote.java">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/SingleNote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="90" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/values-v11/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Note.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Note.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="17" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="59" column="5" selection-start="2100" selection-end="2100" vertical-scroll-proportion="0.0" vertical-offset="976" max-vertical-offset="1770">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#4471#4525#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+      <file leaf-file-name="NewNote.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NewNote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="162" column="31" selection-start="6598" selection-end="6598" vertical-scroll-proportion="0.0" vertical-offset="466" max-vertical-offset="1140">
               <folding>
-                <element signature="e#561#590#0" expanded="true" />
+                <element signature="method#getOutputMediaFileUri#0;class#NewNote#0" expanded="false" />
+                <element signature="method#getOutputMediaFile#0;class#NewNote#0" expanded="false" />
+                <element signature="e#1318#1376#0" expanded="false" />
+                <element signature="e#1713#1784#0" expanded="false" />
+                <element signature="method#onCreate#0;class#NewNote#0" expanded="false" />
+                <element signature="e#3750#3814#0" expanded="false" />
+                <element signature="method#addNote#0;class#NewNote#0" expanded="false" />
+                <element signature="class#4594:5272" expanded="false" />
+                <element signature="method#doInBackground#0;class#4594:5272" expanded="false" />
+                <element signature="method#onPostExecute#0;class#4594:5272" expanded="false" />
+                <element signature="class#5844:6409" expanded="false" />
+                <element signature="method#doInBackground#0;class#5844:6409" expanded="false" />
+                <element signature="method#onPostExecute#0;class#5844:6409" expanded="false" />
               </folding>
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="note.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/note.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="780">
-              <folding />
-            </state>
-          </provider>
+      <file leaf-file-name="single_note.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/single_note.xml">
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="44" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.5555553" vertical-offset="0" max-vertical-offset="810">
+              <folding>
+                <element signature="e#656#688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="64" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+              <folding>
+                <element signature="e#782#800#0" expanded="true" />
+                <element signature="e#1004#1022#0" expanded="true" />
+                <element signature="e#1405#1438#0" expanded="true" />
+                <element signature="e#1691#1727#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -240,22 +242,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/POPclient.java" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NoteView.java" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NewNote.java" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/drawable/background.xml" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/values/color.xml" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/new_note.xml" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Database.java" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/note.xml" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Note.java" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/SingleNote.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/PinchImageView.java" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/MainActivity.java" />
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/single_note.xml" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/SingleNote.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Database.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NewNote.java" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NoteListAdapter.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/ScrollableImageView.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/single_note.xml" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/SingleNote.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NewNote.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/note.xml" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Database.java" />
+        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -277,7 +279,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -290,92 +292,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackathon13-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackathon13_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -557,32 +473,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="menu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Hackathon13-1">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Hackathon13-1">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="res">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="layout">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -609,7 +499,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="com/kad/android/hackathon13_1">
+            <PATH_ELEMENT USER_OBJECT="com/kad/android/photo_notes">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -618,6 +508,148 @@
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackathon13-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photo_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -638,11 +670,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -823,21 +855,48 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18668832" sideWeight="0.67236465" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32621083" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53418803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53276354" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.46581197" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18668832" sideWeight="0.67236465" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67236465" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32621083" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53276354" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -900,75 +959,22 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/drawable/background.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="77" selection-start="389" selection-end="389" vertical-scroll-proportion="0.13353115" vertical-offset="0" max-vertical-offset="674" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/build/res/all/debug/layout/new_note.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="763" selection-end="763" vertical-scroll-proportion="0.22804314" vertical-offset="182" max-vertical-offset="885" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NewNote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="62" selection-start="4178" selection-end="4178" vertical-scroll-proportion="0.33333334" vertical-offset="1187" max-vertical-offset="2475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="153" selection-end="153" vertical-scroll-proportion="0.13544019" vertical-offset="0" max-vertical-offset="443">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/new_note.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state line="12" column="44" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
           <folding>
-            <element signature="e#480#508#0" expanded="true" />
-            <element signature="e#865#897#0" expanded="true" />
-            <element signature="e#1427#1467#0" expanded="true" />
-            <element signature="e#1644#1673#0" expanded="true" />
+            <element signature="e#480#508#0" expanded="false" />
+            <element signature="e#865#897#0" expanded="false" />
+            <element signature="e#1427#1467#0" expanded="false" />
+            <element signature="e#1644#1673#0" expanded="false" />
           </folding>
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="32" selection-start="630" selection-end="630" vertical-scroll-proportion="0.20029673" vertical-offset="0" max-vertical-offset="1365">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/note.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding>
-            <element signature="e#561#590#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Note.java">
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="17" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
           <folding>
@@ -984,52 +990,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="70" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/SingleNote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="90" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/menu/single_note.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="443">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/single_note.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="31" selection-start="238" selection-end="238" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="705">
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="49" selection-start="2912" selection-end="2912" vertical-scroll-proportion="0.0" vertical-offset="631" max-vertical-offset="1725">
+        <state line="21" column="27" selection-start="744" selection-end="744" vertical-scroll-proportion="0.48686245" vertical-offset="0" max-vertical-offset="647">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/provider/MediaStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="165" selection-end="165" vertical-scroll-proportion="0.113464445" vertical-offset="0" max-vertical-offset="5565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/build/source/r/release/com/kad/android/photo_notes/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="233" selection-end="233" vertical-scroll-proportion="0.092449926" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="64" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#585#0" expanded="true" />
+            <element signature="e#782#800#0" expanded="true" />
+            <element signature="e#1004#1022#0" expanded="true" />
+            <element signature="e#1405#1438#0" expanded="true" />
+            <element signature="e#1691#1727#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NoteListAdapter.java">
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/single_note.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="0" selection-start="2823" selection-end="2823" vertical-scroll-proportion="1.2448071" vertical-offset="301" max-vertical-offset="1335">
+        <state line="10" column="44" selection-start="381" selection-end="381" vertical-scroll-proportion="-5.5555553" vertical-offset="0" max-vertical-offset="810">
+          <folding>
+            <element signature="e#656#688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/SingleNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="5" selection-start="2100" selection-end="2100" vertical-scroll-proportion="0.0" vertical-offset="976" max-vertical-offset="1770">
+          <folding>
+            <element signature="e#4471#4525#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NewNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="31" selection-start="6598" selection-end="6598" vertical-scroll-proportion="0.0" vertical-offset="466" max-vertical-offset="1140">
+          <folding>
+            <element signature="method#getOutputMediaFileUri#0;class#NewNote#0" expanded="false" />
+            <element signature="method#getOutputMediaFile#0;class#NewNote#0" expanded="false" />
+            <element signature="e#1318#1376#0" expanded="false" />
+            <element signature="e#1713#1784#0" expanded="false" />
+            <element signature="method#onCreate#0;class#NewNote#0" expanded="false" />
+            <element signature="e#3750#3814#0" expanded="false" />
+            <element signature="method#addNote#0;class#NewNote#0" expanded="false" />
+            <element signature="class#4594:5272" expanded="false" />
+            <element signature="method#doInBackground#0;class#4594:5272" expanded="false" />
+            <element signature="method#onPostExecute#0;class#4594:5272" expanded="false" />
+            <element signature="class#5844:6409" expanded="false" />
+            <element signature="method#doInBackground#0;class#5844:6409" expanded="false" />
+            <element signature="method#onPostExecute#0;class#5844:6409" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/widget/ArrayAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="1766" selection-end="1766" vertical-scroll-proportion="0.5234493" vertical-offset="254" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/note.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="54" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="65" selection-start="2665" selection-end="2665" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/widget/AbsListView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="301" column="0" selection-start="12729" selection-end="12729" vertical-scroll-proportion="0.68641114" vertical-offset="4303" max-vertical-offset="4590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="47" selection-start="4703" selection-end="4703" vertical-scroll-proportion="0.7348837" vertical-offset="959" max-vertical-offset="1635">
+          <folding>
+            <element signature="e#874#880#0" expanded="true" />
+            <element signature="method#loadNotesFromDB#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#4373#4727#0" expanded="true" />
+            <element signature="e#4716#4717#0" expanded="true" />
+            <element signature="e#4774#4948#0" expanded="true" />
+            <element signature="e#4937#4938#0" expanded="true" />
           </folding>
         </state>
       </provider>

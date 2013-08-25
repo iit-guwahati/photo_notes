@@ -18,6 +18,8 @@
         android:text="@string/text_button_key_add"
         android:id="@+id/add"
         android:onClick="onClick"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:padding="16dp"
         android:background="@drawable/background"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"/>
