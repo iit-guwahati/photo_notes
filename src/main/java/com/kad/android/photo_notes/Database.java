@@ -44,9 +44,6 @@ public class Database extends SQLiteOpenHelper {
 
     public void insert(String title, String text, String url){
         SQLiteDatabase db = getWritableDatabase();
-//        db.execSQL("INSERT INTO "+TABLE+
-//                "("+FIELD_TITLE+", "+FIELD_TEXT+", "+FIELD_IMAGE+
-//                ", "+FIELD_MODIFIED+") VALUES('"+title);
         ContentValues values = new ContentValues();
         if( title.length() < 1 )
             title = "#PhotoNoteSnap";

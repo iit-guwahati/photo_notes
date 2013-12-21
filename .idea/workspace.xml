@@ -29,252 +29,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c470b6c0-49f1-41d4-bc46-c0fb99e2e40d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.gradle/1.6/taskArtifacts/cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.gradle/1.6/taskArtifacts/cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.gradle/1.6/taskArtifacts/fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.gradle/1.6/taskArtifacts/fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.gradle/1.6/taskArtifacts/outputFileStates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.gradle/1.6/taskArtifacts/taskArtifacts.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/dictionaries/kAd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/libraries/android_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/Hackathon13-1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/apk/Hackathon13-1-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/apk/Hackathon13-1-release-unsigned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Manifest$permission.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Manifest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NewNote$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NewNote$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NewNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/Note.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteListAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/NoteView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/hackathon13_1/SingleNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/MainActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/Manifest$permission.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/Manifest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NewNote$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NewNote$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NewNote$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NewNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/Note.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NoteListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NoteListAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/NoteListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/SingleNote$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/debug/com/kad/android/photo_notes/SingleNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/MainActivity$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/Manifest$permission.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/Manifest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NewNote$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NewNote$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NewNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/Note.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NoteListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NoteListAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NoteListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/NoteView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/hackathon13_1/SingleNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/MainActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NewNote$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NewNote$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NewNote$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NewNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/Note.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NoteListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NoteListAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/NoteListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/SingleNote$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/classes/release/com/kad/android/photo_notes/SingleNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/aidl/debug/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/aidl/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/aidl/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/aidl/release/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/aidl/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/aidl/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/dex/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/dex/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/dex/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/dex/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeAssets/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeAssets/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeAssets/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeAssets/release/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeAssets/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeResources/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeResources/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeResources/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeResources/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeResources/release/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/incremental/mergeResources/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/libs/Hackathon13-1-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/libs/Hackathon13-1-debug.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/libs/Hackathon13-1-release.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/libs/Hackathon13-1-release.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/manifests/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/manifests/release/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/drawable-hdpi/camera.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/drawable/background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/layout/new_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/layout/note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/layout/single_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/menu/new_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/menu/single_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/values-v11/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/values-v14/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/debug/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-hdpi/camera.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/drawable/background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/layout/new_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/layout/note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/layout/single_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/menu/new_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/menu/single_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/values-sw720dp-land/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/values-v11/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/values-v14/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/res/all/release/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/buildConfig/debug/com/kad/android/hackathon13_1/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/buildConfig/debug/com/kad/android/photo_notes/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/buildConfig/release/com/kad/android/hackathon13_1/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/buildConfig/release/com/kad/android/photo_notes/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/debug/com/kad/android/hackathon13_1/Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/debug/com/kad/android/hackathon13_1/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/debug/com/kad/android/photo_notes/Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/debug/com/kad/android/photo_notes/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/release/com/kad/android/hackathon13_1/Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/release/com/kad/android/hackathon13_1/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/build/source/r/release/com/kad/android/photo_notes/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/ic_launcher-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Database.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NewNote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/Note.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NoteListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/NoteView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/SingleNote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Database.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/photo_notes/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NewNote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Note.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/java/com/kad/android/photo_notes/SingleNote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/drawable-hdpi/camera.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/drawable/background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/layout/new_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/layout/note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/layout/single_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/menu/new_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/menu/single_note.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values-sw720dp-land/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values-v11/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values-v14/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values/color.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/Hackathon13-1/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/hackathon13-1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/local.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hackathon13-1/settings.gradle" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/Database.java" afterPath="$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/Database.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hackathon13-1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -338,11 +94,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="13" selection-start="467" selection-end="467" vertical-scroll-proportion="0.13015184" vertical-offset="0" max-vertical-offset="2025">
+            <state line="92" column="13" selection-start="3204" selection-end="3204" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="2025">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewNote.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/NewNote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="1366" max-vertical-offset="2340">
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#5014#5246#0" expanded="false" />
+                <element signature="e#5227#5228#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.20178041" vertical-offset="136" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1410">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/note.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single_note.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/single_note.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="13" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoteListAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="53" selection-start="1719" selection-end="1833" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+              <folding>
+                <element signature="class#2105:4772" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -355,7 +179,7 @@
     </FindUsagesManager>
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="$USER_HOME$/AndroidAppSigning_xlab" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../../AndroidAppSigning_xlab" />
     <option name="KEY_ALIAS" value="xlabs" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -436,7 +260,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Hackathon13-1/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/PinchImageView.java" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/MainActivity.java" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/hackathon13_1/SingleNote.java" />
@@ -452,6 +275,7 @@
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/Database.java" />
         <option value="$PROJECT_DIR$/Hackathon13-1/src/main/java/com/kad/android/photo_notes/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/Database.java" />
       </list>
     </option>
   </component>
@@ -506,6 +330,38 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="res">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="res">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="layout">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="java">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -522,6 +378,26 @@
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhotoNotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhotoNotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -554,26 +430,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhotoNotes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhotoNotes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -581,17 +437,21 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ExportedApkPath" value="$PROJECT_DIR$/photo_notes.apk" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="ExportedModule" value="main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AndroidAppSigning_xlab" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="FullScreen" value="true" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -720,6 +580,8 @@
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="2">
@@ -792,7 +654,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -800,17 +662,17 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2869318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18668832" sideWeight="0.67236465" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18668832" sideWeight="0.67236465" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53276354" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.7130682" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -818,7 +680,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67236465" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32621083" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -826,13 +688,13 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18668832" sideWeight="0.67236465" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -910,6 +772,43 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="18" selection-start="1169" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1740">
+          <folding>
+            <element signature="class#2105:4772" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="22" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="22" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="13" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2115">
@@ -932,9 +831,65 @@
         <state line="301" column="0" selection-start="12729" selection-end="12729" vertical-scroll-proportion="0.68641114" vertical-offset="4303" max-vertical-offset="4590" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/note.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/single_note.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/NoteListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="53" selection-start="1719" selection-end="1833" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <folding>
+            <element signature="class#2105:4772" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1410">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="467" selection-end="467" vertical-scroll-proportion="0.13015184" vertical-offset="0" max-vertical-offset="2025">
+        <state line="92" column="13" selection-start="3204" selection-end="3204" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kad/android/photo_notes/NewNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="1366" max-vertical-offset="2340">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#5014#5246#0" expanded="false" />
+            <element signature="e#5227#5228#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.20178041" vertical-offset="136" max-vertical-offset="810">
           <folding />
         </state>
       </provider>
